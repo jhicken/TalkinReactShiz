@@ -1,0 +1,22 @@
+[
+  {
+    "person": "Rod",
+    "sayingTitle": "I'll start",
+    "saying": "My name is Rod, and I like to party."
+  },
+  {
+    "person": "Dave",
+    "sayingTitle": "Uh, hi.",
+    "saying": "My name is Dave, and I... am the stuntman."
+  },
+  {
+    "person": "Rico",
+    "sayingTitle": "Uh, hello!",
+    "saying": "I'm Rico, and I like to party."
+  },
+  {
+    "person": "Kevin",
+    "sayingTitle": "...",
+    "saying": "I like to party. I'm Rod."
+  }
+]

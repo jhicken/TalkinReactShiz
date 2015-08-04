@@ -1,0 +1,29 @@
+html, body , #bootstraper {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.masterWrapper {
+  background-color: rgb(48, 48, 48);
+  width: 100%;
+  height: 100%;
+  color: #CACACA;
+}
+
+.sayingList {
+  padding: 0 !important;
+  border: 5px solid #555;
+  margin-top: 20px;
+  border-radius: 4px !important;
+
+}
+
+.appCenterWidth {
+  width: 500px;
+  margin: 0 auto;
+}
+
+.u-centerAlign {
+  text-align: center;
+}
